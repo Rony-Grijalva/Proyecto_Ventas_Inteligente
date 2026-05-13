@@ -186,7 +186,6 @@ Contiene información general de cada transacción comercial.
 | invoiceno |
 | customerid |
 | invoicedate |
-| country |
 | totalamount |
 | mes |
 | anio |

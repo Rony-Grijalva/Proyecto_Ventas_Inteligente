@@ -141,6 +141,7 @@ Durante esta etapa se realiza el procesamiento inicial del dataset con el objeti
 Preparar un entorno de datos limpio, estructurado y escalable para facilitar análisis estratégicos y consultas SQL orientadas al negocio.
 
 ---
+![alt text](images/tr.png)
 
 # 🗄️ Modelo Relacional y Normalización de Datos
 
